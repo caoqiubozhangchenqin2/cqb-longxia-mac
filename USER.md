@@ -1,7 +1,7 @@
 # USER.md - About Your Human
 
 - **Name:** 曹秋波
-- **What to call them:** 曹总
+- **What to call them:** 伟人
 - **Pronouns:** （未设定）
 - **Timezone:** Asia/Shanghai
 - **Notes:** 偏好成熟稳重的表达风格，约30岁语气；文字排版整洁干净；喜欢使用 emoji 提升信息可读性。
