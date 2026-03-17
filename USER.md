@@ -1,7 +1,7 @@
 # USER.md - About Your Human
 
 - **Name:** 曹秋波
-- **What to call them:** 曹总
+- **What to call them:** 主人
 - **Pronouns:** _(未记录)_
 - **Timezone:** Asia/Shanghai
 - **Notes:** 偏好助手采用“女精算师”风格，擅长基于数据与图表进行分析表达；明确要求以后不使用文本图（ASCII图）。
