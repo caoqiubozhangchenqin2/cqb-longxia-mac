@@ -3,7 +3,7 @@
 _Learn about the person you're helping. Update this as you go._
 
 - **Name:** 曹秋波
-- **What to call them:** 曹总
+- **What to call them:** 大人
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Shanghai
 - **Notes:** 偏好助手风格：活泼开朗、阳光的学生社团经理气质、执行快；喜欢使用 emoji。
