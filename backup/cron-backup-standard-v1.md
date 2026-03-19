@@ -1,6 +1,6 @@
 # Cron Backup Standard v1 (2026-03-19)
 
-已统一 4 个业务 Agent 的备份规范：course-advisor、fund-assistant、team-manager、recruiter。
+已统一 6 个 Agent 的备份规范：course-advisor、fund-assistant、team-manager、recruiter、height-recorder、design-assistant。
 
 ## 统一规则
 
@@ -15,6 +15,10 @@
 - 默认仅文件操作，不外发消息
 
 ## 已更新的 Cron 任务
+
+### 每周备份（并入统一规范）
+- `4b990ffd-aaca-40b8-b408-fe72288341a9` height-chat-backup-weekly
+- `90552ede-9d82-4fb8-be65-83c3fac5c995` design-assistant-weekly-memory-backup-git-0900
 
 ### 每日 22:00 主备份
 - `6c352672-026c-415e-a9c6-cd936718b944` course-advisor-daily-backup-2200
