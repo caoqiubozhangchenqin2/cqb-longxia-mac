@@ -1,6 +1,6 @@
 # 模力偶像 S5 文件备份快照
 
-> 最近备份时间：2026-03-23 22:00（补做于 2026-03-24 12:01，Asia/Shanghai）
+> 最近备份时间：2026-03-30 22:00（Asia/Shanghai）
 > 备份范围：roster / schedule / attendance / ledger / MEMORY 当日增量
 
 ## A. 今日变动摘要
