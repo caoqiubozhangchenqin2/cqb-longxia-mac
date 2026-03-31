@@ -241,3 +241,26 @@
 - 已写入：`memory/2026-03-29.md`。
 - 已同步：`backup/recruiter-ops.md`。
 - 本次仅文件操作，未外发消息。
+
+## 2026-03-31（周二）
+
+### 今日变更
+- 统计口径：仅纳入 Agent 的创建 / 身份配置 / 群绑定三类关键操作。
+- 今日未发生新增 Agent 创建、身份配置变更或群绑定变更。
+- 12:00 已完成统一补偿检查并补做昨晚（2026-03-30 22:00）未落盘的备份；22:00 按【统一备份规范v1】完成当日例行备份。
+- 当前业务 Agent 状态稳定：team-manager / fund-assistant / course-advisor / height-recorder / design-assistant / info-researcher 六者均处于正常维护状态，绑定关系无变化。
+
+### 风险与异常
+- 未发现路由冲突、误绑、解绑或身份配置漂移。
+- 未发现本次备份写入失败、文件缺失或同步异常。
+- 持续风险：`main` 仍为默认兜底路由，存在误触发可能，建议继续推进专用总控群收敛。
+
+### 明日待办
+- 按规范继续执行 22:00 例行备份（四段结构 + 双文件同步）。
+- 复核六个业务 Agent（team-manager / fund-assistant / course-advisor / height-recorder / design-assistant / info-researcher）绑定一致性。
+- 跟踪 `main` 兜底路由治理推进状态。
+
+### 备份状态
+- 已写入：`memory/2026-03-31.md`。
+- 已同步：`backup/recruiter-ops.md`。
+- 本次仅文件操作，未外发消息。
