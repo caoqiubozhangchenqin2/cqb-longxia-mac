@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-03-18T09:31:00+08:00",
+  "notes": "name -> session routing registry for main dispatch mode",
+  "agents": [
+    {
+      "agentId": "main",
+      "displayName": "main",
+      "channel": "feishu",
+      "to": null,
+      "chatId": null,
+      "sessionKey": null,
+      "lastSeen": null,
+      "status": "pending"
+    },
+    {
+      "agentId": "recruiter",
+      "displayName": "招聘专员",
+      "channel": "feishu",
+      "to": "chat:oc_485ad0089ccbc1cfc337b02e40070e07",
+      "chatId": "oc_485ad0089ccbc1cfc337b02e40070e07",
+      "sessionKey": "agent:recruiter:feishu:group:oc_485ad0089ccbc1cfc337b02e40070e07",
+      "lastSeen": "2026-03-18T09:31:00+08:00",
+      "status": "active"
+    },
+    {
+      "agentId": "team-manager",
+      "displayName": "team-manager",
+      "channel": "feishu",
+      "to": "chat:oc_d6c29ac03e044b3552d5f194b84356c8",
+      "chatId": "oc_d6c29ac03e044b3552d5f194b84356c8",
+      "sessionKey": null,
+      "lastSeen": null,
+      "status": "pending"
+    },
+    {
+      "agentId": "fund-assistant",
+      "displayName": "基金助理",
+      "channel": "feishu",
+      "to": "chat:oc_eb287898a2b34b5920c74017dd2a3981",
+      "chatId": "oc_eb287898a2b34b5920c74017dd2a3981",
+      "sessionKey": null,
+      "lastSeen": null,
+      "status": "pending"
+    },
+    {
+      "agentId": "course-advisor",
+      "displayName": "课程顾问",
+      "channel": "feishu",
+      "to": "chat:oc_10f32dc803f57056cc4109c26d8ce52f",
+      "chatId": "oc_10f32dc803f57056cc4109c26d8ce52f",
+      "sessionKey": null,
+      "lastSeen": null,
+      "status": "pending"
+    },
+    {
+      "agentId": "height-recorder",
+      "displayName": "身高记录师",
+      "channel": "feishu",
+      "to": "chat:oc_e0f24684632351fb33fc3d1ca7479afb",
+      "chatId": "oc_e0f24684632351fb33fc3d1ca7479afb",
+      "sessionKey": null,
+      "lastSeen": null,
+      "status": "pending"
+    }
+  ]
+}
