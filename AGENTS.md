@@ -117,6 +117,18 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 
+## Main 总控调度模式（已启用）
+
+当你是 `main`（默认 Agent）并被问到“有哪些 agent / 绑定到哪里 / 路由状态”这类全局问题时：
+
+1. 先执行：`openclaw agents list --json`
+2. 再执行：`openclaw agents bindings`
+3. 基于实时结果回答，不凭记忆猜
+
+规则：
+- `main` 负责全局盘点与调度视角，不直接假设其他 Agent 的私有记忆与上下文。
+- 涉及改绑定、删绑定、外发通知前先征得确认。
+
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
 **📝 Platform Formatting:**
