@@ -17,10 +17,11 @@
 | fund-assistant | 基金助理 | oc_eb287898a2b34b5920c74017dd2a3981 |
 | height-recorder | 身高记录员 | oc_e0f24684632351fb33fc3d1ca7479afb |
 | design-assistant | 设计助理 | - |
-| info-researcher | 信息研究员 | oc_508f71ffec09ce662de9737135c6be35 |
+| info-researcher | 信息研究员（军情六处） | oc_508f71ffec09ce662de9737135c6be35 |
   - sessionKey: `agent:info-researcher:feishu:group:oc_508f71ffec09ce662de9737135c6be35`
   - 负责：每周五大联赛观赛指南（周五 16:40）
   - 固定推送格式：赛程+积分榜+军情六处资讯
+  - ⚠️ 当前该群运行在 main 身份下，但身份记录为 info-researcher
 
 ### Workspace 隔离
 每个子 Agent 有独立 workspace：
