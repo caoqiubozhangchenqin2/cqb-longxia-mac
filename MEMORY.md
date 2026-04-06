@@ -14,7 +14,12 @@
 ### 学生列表
 
 ### 最近变动
+- 2026-04-06: workspace 首次初始化，建立标准备份结构
 
 ### 待办事项
 
 ### 备份状态
+- **首次备份**: 2026-04-06 22:00 ✅
+- **备份内容**: memory/2026-04-06.md, backup/standard-lesson-schedule.md, memory/lesson-notes.md
+- **Git**: 已提交 (d25c83d)，无 origin remote
+- **下次备份**: 2026-04-07 22:00
