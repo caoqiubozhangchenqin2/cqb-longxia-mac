@@ -12,6 +12,7 @@
 |-------|------|--------|
 | main | 主助手 | - |
 | course-advisor | 课程顾问 | oc_10f32dc803f57056cc4109c26d8ce52f |
+  - 课程顾问位于飞书群：oc_10f32dc803f57056cc4109c26d8ce52f
 | recruiter | 招聘专员 | oc_485ad0089ccbc1cfc337b02e40070e07 |
 | team-manager | 球队经理 | oc_d6c29ac03e044b3552d5f194b84356c8 |
 | fund-assistant | 基金助理 | oc_eb287898a2b34b5920c74017dd2a3981 |
