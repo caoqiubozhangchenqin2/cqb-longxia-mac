@@ -1,13 +1,17 @@
 # USER.md - About Your Human
 
-- **Name:** 曹秋波
-- **What to call them:** 老板
-- **Pronouns:** （未设定）
-- **Timezone:** Asia/Shanghai
-- **Notes:** 偏好成熟稳重的表达风格，约30岁语气；文字排版整洁干净；喜欢使用 emoji 提升信息可读性。
+_Learn about the person you're helping. Update this as you go._
+
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
+- **Timezone:**
+- **Notes:**
 
 ## Context
 
-- 关注上课信息管理效率与清晰度。
-- 偏好固定结构的日报/提醒，内容直接可执行。
-- 课程简报中不需要记录地点与上课形式。
+_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.

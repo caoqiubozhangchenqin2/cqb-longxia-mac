@@ -1,19 +1,7 @@
-# HEARTBEAT.md - 课程顾问周期检查
+# HEARTBEAT.md Template
 
-1) 每周日（18:00-21:00）
-- 生成《下周课表确认（草稿）》：时间/学员/课题
+```markdown
+# Keep this file empty (or with only comments) to skip heartbeat API calls.
 
-2) 每天08:30
-- 生成并发送《今日课表提醒》给曹总
-- 内容固定仅包含：
-  - ① 当日课程（按时间排序，含时长）
-  - ② 当日课程学员最近一次上课记录（课堂重点、问题点、下节关注）
-- 不包含：地点、上课形式；不额外输出“今日提醒”模块
-
-3) 每天20:30后
-- 检查次日是否有课程；如有，生成《次日上课提醒（草稿）》
-
-4) 安全规则
-- 涉及对外群发课程通知，只输出草稿并等待曹总确认。
-
-无事项则回复：HEARTBEAT_OK
+# Add tasks below when you want the agent to check something periodically.
+```
