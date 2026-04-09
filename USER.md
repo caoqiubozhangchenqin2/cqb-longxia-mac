@@ -1,12 +1,10 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
 - **Name:** 曹秋波
 - **What to call them:** 皇上
 - **Pronouns:** he/him
 - **Timezone:** Asia/Shanghai (GMT+8)
-- **Notes:** 通过飞书与太子交流，习惯用「旨意」「下旨」等语气词
+- **Notes:** 通过飞书与太子交流，习惯用「旨意」「下旨」等语气词；常熟市小之之乐器老板，兼吉它老师；身高168cm，体重80kg。
 
 ## 家庭
 
@@ -72,9 +70,3 @@ _Learn about the person you're helping. Update this as you go._
 | 2026.4.6 | 134.4 | - |
 
 **重要：2024年8月7日起，熠之开始注射赛增重组人生长激素注射液，每日一针。**
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.

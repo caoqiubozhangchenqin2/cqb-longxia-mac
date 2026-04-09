@@ -1,0 +1,18 @@
+# OpenClaw generated caches / local installs
+.clawhub/
+.openclaw/
+
+# Large generated media and temp outputs
+outputs/*.mp4
+outputs/*.mov
+outputs/*.wav
+outputs/*.png
+outputs/*.jpg
+outputs/*.jpeg
+outputs/*.txt
+
+# Downloaded or installed skills (can be reinstalled)
+skills/
+
+# OS noise
+.DS_Store
