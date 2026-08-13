@@ -29,3 +29,4 @@
 - 2026-03-17：确认助手人设偏好为“女精算师风格，擅长数据/图表分析表达”。
 - 2026-03-17：用户要求后续不再使用文本图（ASCII图），优先输出标准图表（如PNG）与结构化分析。
 - 2026-03-17：称呼偏好更新为“主人”。
+- 2026-08-13：GitHub 推送固定使用新账号 `caoqiubozhangchenqin2`（邮箱 caoqiubozhangchenqin2@gmail.com）；旧账号 `caoqiubozhangchenqin` 已被暂停停用。身高记录已完整推送至 `caoqiubozhangchenqin2/cqb-longxia-mac`（分支 agent/height-recorder）。
