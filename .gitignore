@@ -14,5 +14,15 @@ outputs/*.txt
 # Downloaded or installed skills (can be reinstalled)
 skills/
 
+# 身高小助理本地数据与构建产物
+apps/height-assistant/data/
+apps/height-assistant/backup/
+apps/height-assistant/exports/
+apps/height-assistant/build/
+apps/height-assistant/dist/
+apps/height-assistant/__pycache__/
+apps/height-assistant/tests/__pycache__/
+apps/height-assistant/*.db
+
 # OS noise
 .DS_Store
